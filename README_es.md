@@ -1,5 +1,5 @@
 <p align="center"><b>🛠️ Este repositorio fue creado usando el <a href="https://gitupload.com">GitUpload</a>.</b></p>
-
+<p align="center"><a href="https://kupi.net"><img src="https://github.com/markolofsen/stock_exchange_script//blob/master/.banners/banner_es.png?raw=1" /></a></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/stock_exchange_script/blob/master/README_de.md">🇩🇪 Deutsch</a> | <a href="https://github.com/markolofsen/stock_exchange_script/blob/master/README.md">🇬🇧 English</a> | <b>🇪🇸 Spanish</b> | <a href="https://github.com/markolofsen/stock_exchange_script/blob/master/README_fr.md">🇫🇷 French</a> | <a href="https://github.com/markolofsen/stock_exchange_script/blob/master/README_it.md">🇮🇹 Italian</a> | <a href="https://github.com/markolofsen/stock_exchange_script/blob/master/README_ru.md">🇷🇺 Russian</a></p>
 
 ---
