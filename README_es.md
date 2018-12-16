@@ -30,7 +30,7 @@ ReactJS, Python (Django), MySQL
 
 [[HR]]
 
-Versión = 0.0.1 <br />
+Versión = 0.0.2 <br />
 Nombre de la biblioteca = stock_exchange_script <br />
 Título = Stock Exchange Script — FREE <br />
 Palabras clave = stock script exchange crypto currency system binance developing free bitcoin <br />
